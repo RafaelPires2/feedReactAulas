@@ -17,13 +17,11 @@ export function App() {
 
         <main>
           <Post
-            author="Rafael"
-            content="Bem vindos ao React"      
+                
           />
 
           <Post
-            author="Renan"
-            content="Boa noite"      
+                
           />
         </main>
 
